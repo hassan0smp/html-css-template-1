@@ -1,0 +1,42 @@
+.mb-5 {
+	margin-bottom: 5px;
+}
+.mb-10 {
+	margin-bottom: 10px;
+}
+.mb-15 {
+	margin-bottom: 15px;
+}
+.mb-20 {
+	margin-bottom: 20px;
+}
+.mb-25 {
+	margin-bottom: 25px;
+}
+.mb-30 {
+	margin-bottom: 30px;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.capitalize {
+	text-transform: capitalize;
+}
+.fl {
+	float: left;
+}
+.oh {
+	overflow: hidden;
+}
+.bg-gray {
+	background: #f9f9f9;
+}
+.w30 {
+	width: 30%;
+}
+.w50 {
+	width: 50%;
+}
+.w100 {
+	width: 100%;
+}
